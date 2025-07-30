@@ -2,8 +2,8 @@ from binance.client import Client
 from binance.websockets import BinanceSocketManager
 
 # Substitua pelas suas chaves da Testnet
-api_key = '8ji1gGK79VspdpvF6BRcykfRrAj03Q9pDXMkd63L4bmPC6XHyux0rmCLIybKRnmN'
-api_secret = 'jyunS9yKWKjCIUmKioL4qCPFf8NpvvqJhe6Na7PQh9cRA6G5aMURJJYuzyzNe2MC'
+api_key = ''
+api_secret = ''
 
 # Inicializa o cliente
 client = Client(api_key, api_secret, testnet=True)
