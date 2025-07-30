@@ -1,8 +1,8 @@
 from binance.client import Client  # Importa o Client da biblioteca da Binance
 
 # Substitua estas chaves pela sua chave de API e segredo da Binance
-api_key = '8ji1gGK79VspdpvF6BRcykfRrAj03Q9pDXMkd63L4bmPC6XHyux0rmCLIybKRnmN'
-api_secret = 'jyunS9yKWKjCIUmKioL4qCPFf8NpvvqJhe6Na7PQh9cRA6G5aMURJJYuzyzNe2MC'
+api_key = ''
+api_secret = ''
 
 # Inicializando o cliente da Binance
 client = Client(api_key, api_secret)
